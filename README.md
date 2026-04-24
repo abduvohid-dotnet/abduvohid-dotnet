@@ -23,10 +23,30 @@
 
 </div>
 
+<div align="center">
+
+```text
+Turning ideas into reliable software with clean architecture, practical engineering,
+and a strong backend mindset.
+```
+
+</div>
+
 ## About Me
 
 I am a backend-first developer who enjoys building reliable systems, clean APIs, and polished user-facing products.  
 My main strength is turning ideas into practical, maintainable software with a strong focus on `C#`, `.NET`, `ASP.NET Core`, `SQL`, and modern frontend tooling when the product needs it.
+
+## Quick Overview
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Primary_Focus-.NET_&_Backend-0F172A?style=for-the-badge" alt="Primary Focus" />
+<img src="https://img.shields.io/badge/Approach-Clean_Architecture-2563EB?style=for-the-badge" alt="Approach" />
+<img src="https://img.shields.io/badge/Strength-API_Design-059669?style=for-the-badge" alt="Strength" />
+<img src="https://img.shields.io/badge/Mindset-Always_Improving-F97316?style=for-the-badge" alt="Mindset" />
+
+</div>
 
 ## What Defines My Work
 
@@ -35,11 +55,36 @@ My main strength is turning ideas into practical, maintainable software with a s
 - Combining engineering discipline with product thinking
 - Continuously improving through shipping, iteration, and curiosity
 
+## Engineering Style
+
+<div align="center">
+
+| Backend | Architecture | Product | Frontend |
+|---|---|---|---|
+| APIs, services, integrations | Structure, scalability, maintainability | Practical decisions, real value | React, Next.js, TypeScript |
+
+</div>
+
 ## Tech Arsenal
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postgres,mysql,git,github,js,ts,react,nextjs,tailwind&theme=light" alt="Tech stack icons" />
+
+</div>
+
+## Signature Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%23-5B21B6?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-4338CA?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+<img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/REST_API-0369A1?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+<img src="https://img.shields.io/badge/React-082F49?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-2563EB?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 
 </div>
 
@@ -67,6 +112,16 @@ Shipping modern full-stack applications
 Growing into a sharper and more consistent engineer
 ```
 
+## Growth Loop
+
+<div align="center">
+
+```text
+Learn -> Build -> Refine -> Ship -> Repeat
+```
+
+</div>
+
 ## Contribution Activity
 
 <div align="center">
@@ -80,6 +135,14 @@ Growing into a sharper and more consistent engineer
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=abduvohid-dotnet&theme=flat&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+
+</div>
+
+## Deep Dive
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abduvohid-dotnet&theme=transparent" alt="Profile details" />
 
 </div>
 
