@@ -1,79 +1,109 @@
 <div align="center">
 
-# Abduvohid
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,35:1D4ED8,70:2563EB,100:38BDF8&text=Abduvohid&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=.NET%20Developer%20%7C%20Backend%20Engineer%20%7C%20Full-Stack%20Builder&descAlignY=58&animation=fadeIn" alt="Header banner" />
 
-### .NET Developer focused on scalable backends, clean architecture, and modern web products
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&duration=2800&color=2563EB&center=true&vCenter=true&width=980&lines=Building+scalable+backend+systems;Crafting+modern+web+products;Clean+architecture+with+real+world+thinking;C%23+%7C+.NET+%7C+ASP.NET+Core+%7C+SQL+%7C+React+%7C+Next.js" alt="Typing animation" />
 
-<p>
-  <a href="https://github.com/abduvohid-dotnet?tab=repositories">
-    <img src="https://img.shields.io/badge/View_Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
-  </a>
-  <a href="https://github.com/abduvohid-dotnet?tab=followers">
-    <img src="https://img.shields.io/badge/Follow_Profile-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Follow Profile" />
-  </a>
-  <a href="https://github.com/abduvohid-dotnet?tab=stars">
-    <img src="https://img.shields.io/badge/Open_Source-059669?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Open Source" />
-  </a>
-</p>
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Backend+developer;Building+with+C%23%2C+.NET%2C+SQL%2C+React;Clean+code+%7C+Practical+systems+%7C+Continuous+growth" alt="Typing intro" />
+<a href="https://github.com/abduvohid-dotnet?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_Projects-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" />
+</a>
+<a href="https://github.com/abduvohid-dotnet?tab=followers">
+  <img src="https://img.shields.io/badge/Follow_Profile-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Follow Profile" />
+</a>
+<a href="https://github.com/abduvohid-dotnet?tab=stars">
+  <img src="https://img.shields.io/badge/Open_Source-059669?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Open Source" />
+</a>
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=abduvohid-dotnet&style=for-the-badge&color=2563EB" alt="Profile views" />
 
 </div>
 
----
+## About Me
 
-## Who I Am
+I am a backend-first developer who enjoys building reliable systems, clean APIs, and polished user-facing products.  
+My main strength is turning ideas into practical, maintainable software with a strong focus on `C#`, `.NET`, `ASP.NET Core`, `SQL`, and modern frontend tooling when the product needs it.
 
-I build reliable applications with a backend-first mindset and a strong focus on clarity, maintainability, and real product value.  
-My core direction is `C#`, `.NET`, `ASP.NET Core`, `SQL`, and I also enjoy shipping polished interfaces with `React`, `Next.js`, and `TypeScript`.
+## What Defines My Work
 
-## What I Bring
+- Building robust backend services with clear architecture
+- Writing clean, maintainable code instead of noisy complexity
+- Combining engineering discipline with product thinking
+- Continuously improving through shipping, iteration, and curiosity
 
-- Strong focus on backend engineering and API development
-- Clean, structured code over unnecessary complexity
-- Practical frontend skills for building complete products
-- Consistent growth through shipping, learning, and iteration
+## Tech Arsenal
 
-## Core Stack
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-5B21B6?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-4C1D95?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Entity_Framework-6D28D9?style=flat-square&logo=databricks&logoColor=white" alt="Entity Framework" />
-  <img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-F97316?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/JavaScript-FACC15?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-2563EB?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-082F49?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0284C7?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postgres,mysql,git,github,js,ts,react,nextjs,tailwind&theme=light" alt="Tech stack icons" />
+
+</div>
+
+## Animated Snapshot
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abduvohid-dotnet&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&title_color=0F172A&icon_color=2563EB&text_color=475569&bg_color=ffffff" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduvohid-dotnet&layout=compact&hide_border=true&title_color=0F172A&text_color=475569&bg_color=ffffff" alt="Top languages" />
+
+</div>
+
+<div align="center">
+
+<img height="180" src="https://streak-stats.demolab.com?user=abduvohid-dotnet&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=0F172A&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8" alt="GitHub streak" />
+
+</div>
 
 ## Current Focus
 
 ```text
-Designing robust APIs
-Improving architecture decisions
-Building modern full-stack products
-Growing as a disciplined .NET engineer
+Designing backend systems that scale
+Improving API quality and architecture decisions
+Shipping modern full-stack applications
+Growing into a sharper and more consistent engineer
 ```
 
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abduvohid-dotnet&show_icons=true&rank_icon=github&hide_border=true&title_color=0F172A&icon_color=2563EB&text_color=475569&bg_color=ffffff" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduvohid-dotnet&layout=compact&hide_border=true&title_color=0F172A&text_color=475569&bg_color=ffffff" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=abduvohid-dotnet&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=0F172A&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8" alt="GitHub streak" />
-</p>
-
-## Profile Motto
-
-> Build useful things. Keep them clean. Improve every week.
+## Contribution Activity
 
 <div align="center">
-  <sub>Thanks for visiting my profile. More solid projects are on the way.</sub>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abduvohid-dotnet&bg_color=ffffff&color=2563EB&line=2563EB&point=0F172A&area=true&hide_border=true" alt="Activity graph" />
+
+</div>
+
+## Profile Highlights
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abduvohid-dotnet&theme=flat&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+
+</div>
+
+## Developer Mindset
+
+<div align="center">
+
+```text
+Backend first
+Architecture minded
+Clean code driven
+Always leveling up
+```
+
+</div>
+
+## Motto
+
+<div align="center">
+  <i>Build useful things. Keep them elegant. Make every version better.</i>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,35:1D4ED8,70:2563EB,100:38BDF8" alt="Footer banner" />
 </div>
