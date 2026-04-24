@@ -37,6 +37,14 @@ and a strong backend mindset.
 I am a backend-first developer who enjoys building reliable systems, clean APIs, and polished user-facing products.  
 My main strength is turning ideas into practical, maintainable software with a strong focus on `C#`, `.NET`, `ASP.NET Core`, `SQL`, and modern frontend tooling when the product needs it.
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Code_with_clarity-0F172A?style=for-the-badge" alt="Code with clarity" />
+<img src="https://img.shields.io/badge/Build_for_scale-2563EB?style=for-the-badge" alt="Build for scale" />
+<img src="https://img.shields.io/badge/Ship_with_purpose-059669?style=for-the-badge" alt="Ship with purpose" />
+
+</div>
+
 ## Quick Overview
 
 <div align="center">
@@ -88,6 +96,18 @@ My main strength is turning ideas into practical, maintainable software with a s
 
 </div>
 
+## Philosophy
+
+<div align="center">
+
+| Principle | Meaning |
+|---|---|
+| Clarity first | Systems should be easy to understand, extend, and maintain |
+| Real-world engineering | Good code solves actual problems, not just technical puzzles |
+| Consistency matters | Small improvements repeated over time create serious progress |
+
+</div>
+
 ## Animated Snapshot
 
 <div align="center">
@@ -122,19 +142,20 @@ Learn -> Build -> Refine -> Ship -> Repeat
 
 </div>
 
+## Visual Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abduvohid-dotnet&theme=transparent" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abduvohid-dotnet&theme=transparent" alt="Most commit language" />
+
+</div>
+
 ## Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abduvohid-dotnet&bg_color=ffffff&color=2563EB&line=2563EB&point=0F172A&area=true&hide_border=true" alt="Activity graph" />
-
-</div>
-
-## Profile Highlights
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abduvohid-dotnet&theme=flat&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
 
 </div>
 
@@ -145,6 +166,13 @@ Learn -> Build -> Refine -> Ship -> Repeat
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abduvohid-dotnet&theme=transparent" alt="Profile details" />
 
 </div>
+
+## What You Will Find Here
+
+- Practical backend projects built with `.NET` and `C#`
+- Experiments that improve engineering depth and product thinking
+- Full-stack work where solid backend logic meets modern frontend delivery
+- A profile that keeps evolving with stronger code and better systems
 
 ## Developer Mindset
 
