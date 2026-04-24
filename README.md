@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Backend-first+developer;Building+with+C%23%2C+.NET%2C+SQL%2C+React;Clean+code+%7C+Practical+systems+%7C+Continuous+growth" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Backend+developer;Building+with+C%23%2C+.NET%2C+SQL%2C+React;Clean+code+%7C+Practical+systems+%7C+Continuous+growth" alt="Typing intro" />
 
 </div>
 
